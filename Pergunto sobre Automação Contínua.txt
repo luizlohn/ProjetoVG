@@ -1,0 +1,3 @@
+Pergunta: Explicar como você faria para que a suite de regressão rode os testes duas vezes ao dia.
+
+Resposta: Poder-se-ia utilizar o Jenkins, utilizando Jenkins criariamos um Job, neste Job colocaria * */12 * * * para rodar a cada 12 horas ou seja duas vezes ao dia.
